@@ -1,0 +1,34 @@
+* {
+  text-align: center;
+  color: #785A28;
+}
+
+.grid {
+  margin: 10%;
+  display: grid;
+  padding: 10px;
+  background-color: #C89B3C;
+  border: 10px solid #0A323C;
+  border-radius: 1.5%;
+}
+
+.row {
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+}
+
+.label {
+  background-color: #0A323C;
+}
+
+section div {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  height: 100%;
+  width: 100%;
+  border: 1px solid #0A323C;
+}/*# sourceMappingURL=Untitled-1.css.map */
